@@ -2,7 +2,7 @@
 
 A personalized movie recommendation app powered by collaborative filtering and AI-generated explanations.
 
-🔗 **[Live Demo](https://your-app-url.streamlit.app)** ← update after deploy
+🔗 **[Live Demo](https://shrey-movie-recommender.streamlit.app)**
 
 ---
 
